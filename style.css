@@ -154,7 +154,7 @@ header nav ul li a {
     color: white;
     width: 150px;
     height: 40px;
-    border: 1px solid black;
+
     font-size: 17px;
 }
 
@@ -172,7 +172,7 @@ header nav ul li a {
     margin: 0 7.5% 0 7.5%;
     margin-top: 100px;
     width: 90%;
-    background-color: rgb(230, 230, 218);
+    background-color: rgb(238, 238, 234);
     box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.3);
     width: 80%;
     height: 800px;
@@ -234,7 +234,6 @@ header nav ul li a {
     color: rgb(0, 0, 0);
     width: 150px;
     height: 40px;
-    border: 1px solid black;
     font-size: 17px;
 }
 
@@ -279,7 +278,6 @@ header nav ul li a {
     color: rgb(0, 0, 0);
     width: 175px;
     height: 40px;
-    border: 1px solid black;
     font-size: 20px;
 }
 
@@ -319,7 +317,6 @@ header nav ul li a {
     color: rgb(0, 0, 0);
     width: 175px;
     height: 40px;
-    border: 1px solid black;
     font-size: 20px
 }
 .p-text3 {
@@ -365,7 +362,6 @@ header nav ul li a {
     color: rgb(255, 255, 255);
     width: 175px;
     height: 40px;
-    border: 1px solid black;
     font-size: 20px
 }
 
@@ -464,9 +460,12 @@ hr {
     max-height: 5vh;
     border-radius: 100%;
     margin-left: 2vh;
+    background-color:#e9c600;
 }
 
-#imgfoot {
+.imgfoot {
     display: flex;
+    background-color: #000000;
     padding-right: 5vh;
+    justify-content: flex-end;
 }
