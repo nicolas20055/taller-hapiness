@@ -498,6 +498,14 @@ hr {
         color: #e9c600;
     }
 
+    .btn-more{
+        color: #000000;
+    }
+
+    .btn-2{
+        color: #000000;
+    }
+
     .div2 {
         display: flex;
         position: absolute;
