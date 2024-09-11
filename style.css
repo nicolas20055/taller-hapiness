@@ -247,15 +247,16 @@ header nav ul li a {
 .p-text {
     color: white;
     text-align: center;
-    width: 35%;
+    width: 53%;
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 20px;
+    margin-top: -33px;
 }
 
 .section5 img {
-    height: 50vh;
-    width: 80vh;
+    height: 25vh;
+    width: 44vh;
+    margin-top: 266px;
 }
 
 .section-6 {
@@ -476,7 +477,7 @@ hr {
 
 
 @media (max-width: 480px) {
-    
+
     .section2 {
         padding: 60px;
         display: flex;
@@ -498,14 +499,14 @@ hr {
         color: #e9c600;
     }
 
-    .btn-more{
+    .btn-more {
         color: #000000;
 
 
-        
+
     }
 
-    .btn-2{
+    .btn-2 {
 
 
 
@@ -543,7 +544,8 @@ hr {
     }
 
     .div4 img {
-        max-width: 14vh;
+        width: 37vh;
+        height: 57vh;
     }
 
     .div5 {
@@ -628,12 +630,13 @@ hr {
     }
 
     .section5 img {
-        height: 50vh;
-        width: 54vh;
+        height: 25vh;
+        width: 44vh;
+        margin-top: 144px;
     }
 
     .div11 img {
-        width: 49vh;
+        width: 42vh;
         height: 43vh;
     }
 
